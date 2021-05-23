@@ -6,7 +6,7 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Work on as much as project I can!!
+- 🥅 2021 Goals: Work on as much as project I can!!
 
 ### Spotify Playing 🎧
 
