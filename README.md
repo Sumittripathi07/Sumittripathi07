@@ -1,16 +1,12 @@
-### Hi there, I'm Sumit - aka [talk2computer][website] 👋
+### Hi there, I'm Sumit - [talk2computer][website] 👋
 
 [![Website](https://img.shields.io/youtube/channel/subscribers/UCGt6YxqAddqOfNOKyrYB9Ug?color=red&label=talk2computer&style=social)](https://www.youtube.com/channel/UCGt6YxqAddqOfNOKyrYB9Ug)
 
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Web development
 - 🥅 2021 Goals: Work on as much as project I can!!
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 - Email: sumit.tpt07@gmail.com
