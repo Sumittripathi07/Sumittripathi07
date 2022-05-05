@@ -5,8 +5,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning Web development
-- 🥅 2021 Goals: Work on as much as project I can!!
+- 🌱 I’m currently learning Web development!
 
 ### Connect with me:
 - Email: sumit.tpt07@gmail.com
