@@ -11,7 +11,7 @@
 - Email: sumit.tpt07@gmail.com
 <p align="left">
 <a href="https://twitter.com/iamSumit076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumittripathi07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/sumittripathi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sumittripathi07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumittripathi07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sumittripathi07" height="30" width="40" /></a>
 <a href="https://instagram.com/sumittripathi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumittripathi07" height="30" width="40" /></a>
 </p>
 
