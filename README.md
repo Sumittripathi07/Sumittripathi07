@@ -97,6 +97,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sumittripathi07/Sumittripathi07/output/github-snake.svg" />
 </picture>
 
+###
+
+[![](https://visitcount.itsvg.in/api?id=DevRohit06&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumittripathi07&show_icons=true&locale=en&layout=compact" alt="sumittripathi07" /></p>
 
