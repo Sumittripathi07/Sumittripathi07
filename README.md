@@ -24,8 +24,6 @@
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
-  <img width="12"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="nextjs logo"  />
@@ -36,8 +34,6 @@
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12"  />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
-   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="ionic logo"  />
 </div>
 
@@ -89,17 +85,9 @@
 
 ###
 
-![snake gif](https://github.com/Sumittripathi07/Sumittripathi07/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumittripathi07/Sumittripathi07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumittripathi07/Sumittripathi07/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sumittripathi07/Sumittripathi07/output/github-snake.svg" />
-</picture>
 
 ###
 
