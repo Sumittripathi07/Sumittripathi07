@@ -89,8 +89,7 @@
 
 ###
 
-
-(https://github.com/Sumittripathi07/Sumittripathi07/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Sumittripathi07/Sumittripathi07/blob/output/github-contribution-grid-snake.gif)
 
 
 
