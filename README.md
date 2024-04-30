@@ -7,23 +7,87 @@
 
 - 🌱 I’m currently learning Web development!
 
-### Connect with me:
-- Email: sumit.tpt07@gmail.com
-<p align="left">
-<a href="https://twitter.com/iamSumit076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumittripathi07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumittripathi07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sumittripathi07" height="30" width="40" /></a>
-<a href="https://instagram.com/sumittripathi07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumittripathi07" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Skills
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="astro logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="nextjs logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12"  />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
+   <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="ionic logo"  />
+</div>
 
+###
+### Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumittripathi07&show_icons=true&locale=en&layout=compact" alt="sumittripathi07" /></p>
+###
+### Connect with me  on
+<div align="left">
+  <a href="https://www.instagram.com/rohitk.06" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
+  </a>
+  <img width="12"  />
+  <a href="https://www.linkedin.com/in/rohit-kushwaha-339978209/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
+  </a>
+  <img width="12"  />
+  <a href="https://twitter.com/rohitk_06" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumittripathi07&show_icons=true&locale=en" alt="sumittripathi07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumittripathi07&" alt="sumittripathi07" /></p>
+###
 
 <br />
 
