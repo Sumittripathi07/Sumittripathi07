@@ -52,8 +52,6 @@
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12"  />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
@@ -63,23 +61,21 @@
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
 </div>
 
 ###
 ### Connect with me  on
 <div align="left">
-  <a href="https://www.instagram.com/rohitk.06" target="_blank">
+  <a href="https://www.instagram.com/sumittripathi07" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   </a>
   <img width="12"  />
-  <a href="https://www.linkedin.com/in/rohit-kushwaha-339978209/" target="_blank">
+  <a href="https://www.linkedin.com/in/sumittripathi07/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   </a>
   <img width="12"  />
-  <a href="https://twitter.com/rohitk_06" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
+  <a href="https://twitter.com/iamSumit076" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter logo"  />
   </a>
 </div>
 
