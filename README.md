@@ -1,6 +1,7 @@
 ### Hi there, I'm Sumit - [talk2computer][website] 👋
 
 [![Website](https://img.shields.io/youtube/channel/subscribers/UCGt6YxqAddqOfNOKyrYB9Ug?color=red&label=talk2computer&style=social)](https://www.youtube.com/channel/UCGt6YxqAddqOfNOKyrYB9Ug)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumittripathi07&label=Profile%20views&color=0e75b6&style=flat" alt="sumittripathi07" /> </p>
 
 
 ## I'm a Student!!
