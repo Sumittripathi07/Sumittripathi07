@@ -41,8 +41,6 @@
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12"  />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
-  <img width="12"  />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12"  />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
